@@ -34,6 +34,6 @@ ChatGPT was used to draft and structure the HTML/JavaScript prototype, report, a
 - `ReturnGuard_Assignment2_Report.docx`: editable report draft
 
 ## Submission details to fill in
-Public repository: **[ADD URL]**  
-README link: **[ADD URL]**  
-Submitted commit/release: **[ADD HASH OR TAG]**
+Public repository: [**[ADD URL]**](https://github.com/Jingyu999/ReturnGuard)  
+README link: [**[ADD URL]**](https://github.com/Jingyu999/ReturnGuard/blob/main/README.md)  
+Submitted commit/release: 0ce410529aa15276d5c61333d581c2b99f2ef111
